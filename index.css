@@ -1,0 +1,93 @@
+body{
+    margin: 0px;
+
+    font-family: 'Oswald', sans-serif;
+}
+h2{
+    font-size: 45;
+}
+.span{
+    color: coral;
+    font-style: Bold;
+}
+
+.sectionclass1{
+background-image: url("images/header-bg.png");
+background-repeat:no-repeat;
+
+}
+section{
+    height: 600px;
+    padding-bottom: 50px;
+}
+
+.divclass1{
+
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+}
+.divclass1 img{
+    width: 100%;
+}
+.btnclass{
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    padding: 20,30;
+    border-radius: 3px;
+    background-image: linear-gradient(lightSalmon,tomato);
+
+}
+
+.sectionclass2{
+
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position:right ;
+}
+
+
+.sectionclass3{
+    float: left;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    
+    
+}
+.column{
+    float: left;
+    width: 21.33%;
+    padding: 3%;
+    margin-left:5%;
+}
+h3{
+    font-size: 50;
+}
+.div2{
+    font-size: 70;
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    padding: 5px;
+}
+.div3 p {
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+  }
+.div3{
+        text-align: center;
+        margin: auto;
+        width: 60%;
+        border: 3px solid #73AD21;
+        padding: 10px;
+}
+.section{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+
+}
+
+
